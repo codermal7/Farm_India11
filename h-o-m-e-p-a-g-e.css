@@ -1,7 +1,5 @@
-
 body {
-  margin: 0;
-  
+  margin: 0px;  
   line-height: normal;
 }
 .hero-3-cover-icon {
@@ -62,7 +60,7 @@ body {
   width: 15.58%;
   top: calc(50% - 11px);
   right: 86.13%;
-  left: -1.72%;
+  left: 0.28%;
   cursor: pointer;
 }
 .link-b48,
@@ -95,7 +93,7 @@ body {
 .link-b50 {
   width: 15.58%;
   right: 56.2%;
-  left: 28.22%;
+  left: 29.22%;
   cursor: pointer;
   
 }
