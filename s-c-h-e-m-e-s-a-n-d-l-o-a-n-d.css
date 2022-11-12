@@ -179,6 +179,7 @@ body {
   width: 1416px;
   height: 535px;
   object-fit: cover;
+  margin-left: -39px;
 }
 
 .rectangle-icon11 {
@@ -194,19 +195,19 @@ body {
 .home-crop-information-governme3 {
   position: absolute;
   top: 133px;
-  left: 28px;
+  left: 2px;
   font-size: 25px;
   letter-spacing: 0.2px;
   line-height: 24px;
   text-transform: uppercase;
-  display: inline-block;
-  color: #216800;
+  color: rgb(33, 104, 0);
   text-align: center;
-  width: 1260px;
+  width: 1347px;
   height: 69px;
   mix-blend-mode: darken;
   display: flex;
-
+  background-color: rgb(207 248 226);
+  padding-left: 95px;
 }
 
 .filter-div3,
@@ -506,7 +507,7 @@ body {
 .fluentadd-16-filled-icon {
   position: relative;
   width: 116px;
-  height: 97px;
+  height: 45px;
   flex-shrink: 0;
   overflow: hidden;
 }
@@ -651,7 +652,7 @@ body {
 }
 
 .col-md-4-div3 {
-  margin: 0 !important;
+  margin-left: 150px !important;
   position: absolute;
   top: 72px;
   left: calc(50% - 525.5px);
@@ -692,7 +693,7 @@ body {
 }
 
 .col-md-4-div4 {
-  margin: 0 !important;
+  margin-left: 164px !important;
   position: absolute;
   top: 72px;
   left: calc(50% - 164.5px);
@@ -787,6 +788,7 @@ body {
   justify-content: flex-start;
   position: relative;
   gap: 20px;
+
 }
 
 .col-md-4-div5,
@@ -805,7 +807,8 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  z-index: 6;
+  z-index: 1;
+  padding-left: 27px;
 }
 
 .rectangle-icon13 {
@@ -951,7 +954,7 @@ body {
   width: 1440px;
   height: 291px;
   flex-shrink: 0;
-  z-index: 8;
+  z-index: 1;
   font-size: 30px;
 }
 

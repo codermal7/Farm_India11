@@ -4,15 +4,20 @@ body {
 }
 .home-crop-information-governme1 {
   position: absolute;
-  top: 200px;
-  left: 99px;
+  top: 190px;
+  left: 2px;
+  font-size: 25px;
   letter-spacing: 0.2px;
   line-height: 24px;
   text-transform: uppercase;
-  display: inline-block;
-  width: 1127px;
+  color: rgb(33, 104, 0);
+  text-align: center;
+  width: 1347px;
   height: 69px;
   mix-blend-mode: darken;
+  display: flex;
+  background-color: rgb(207 248 226);
+  padding-left: 95px;
 }
 .image-4-div1,
 .rectangle-icon3 {

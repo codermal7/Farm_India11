@@ -22,18 +22,23 @@ body {
     text-decoration: none;
     color: green;
     }
-.home-crop-information-governme {
-  position: absolute;
-  top: 200px;
-  left: 99px;
-  letter-spacing: 0.2px;
-  line-height: 24px;
-  text-transform: uppercase;
-  display: inline-block;
-  width: 1127px;
-  height: 69px;
-  mix-blend-mode: darken;
-}
+    .home-crop-information-governme {
+      position: absolute;
+      top: 190px;
+      left: 2px;
+      font-size: 25px;
+      letter-spacing: 0.2px;
+      line-height: 24px;
+      text-transform: uppercase;
+      color: rgb(33, 104, 0);
+      text-align: center;
+      width: 1347px;
+      height: 69px;
+      mix-blend-mode: darken;
+      display: flex;
+      background-color: rgb(207 248 226);
+      padding-left: 95px;
+    }
 .image-4-div,
 .rectangle-icon {
   position: absolute;
