@@ -1,4 +1,4 @@
-body {
+/* body {
   margin: 0;
   line-height: normal;
 }
@@ -17,7 +17,7 @@ body {
 }
 .rectangle-div12 {
   top: 76px;
-  left: 492px;
+  left: 374px;
   background-color: rgba(0, 0, 0, 0.3);
   border: 1px solid #000;
   width: 652px;
@@ -110,7 +110,7 @@ body {
 }
 .farm-india-b1 {
   top: 0;
-  left: 49px;
+  left: 35px;
   font-size: 35px;
   color: #fff;
   width: 267.66px;
@@ -138,14 +138,14 @@ body {
 .form-div {
   position: absolute;
   top: 285px;
-  left: 640px;
+  left: 530px;
   width: 355.22px;
   height: 317px;
 }
 .leaf-icon-symbol-260nw-1106934 {
   position: absolute;
   top: 107px;
-  left: 703px;
+  left: 603px;
   width: 240px;
   height: 248px;
   object-fit: cover;
@@ -153,7 +153,7 @@ body {
 .rectangle-icon2 {
   position: absolute;
   top: 659px;
-  left: 593px;
+  left: 450px;
   border-radius: 15px;
   width: 490px;
   height: 54px;
@@ -168,7 +168,7 @@ body {
 .dont-have-an-account-sign-up {
   position: absolute;
   top: 670px;
-  left: 663px;
+  left: 545px;
   font-size: 16px;
   letter-spacing: 0.05em;
   font-family: Roboto;
@@ -187,4 +187,4 @@ body {
   font-size: 14px;
   color: #fff;
   font-family: Montserrat;
-}
+} */
